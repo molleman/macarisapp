@@ -17,15 +17,13 @@ header .logo img {
 header .logo  {
     padding :50px;
  }
+ header .header-content .header-content-inner{
+
+   top: 40%;
+ }
 
  @media (min-width: 768px){
    header .header-content .header-content-inner{
    top: 43%;
    }
  }
-
-
-header .header-content .header-content-inner{
-
-  top: 40%;
-}
