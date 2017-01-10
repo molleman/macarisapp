@@ -24,6 +24,6 @@ header .logo  {
 
  @media (min-width: 768px){
    header .header-content .header-content-inner{
-   top: 43%;
+      top: 0%;
    }
  }
