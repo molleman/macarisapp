@@ -147,7 +147,7 @@
 
 
           $(document).ready(function() {
-              setInterval(fadeDivs, 3000);
+              setInterval(fadeDivs, 4000);
           });
 
           function fadeDivs()
@@ -157,7 +157,7 @@
             }
 
             $('#thisImg').fadeOut(100, function(){
-                $(this).attr('src', dataArray[i]).fadeIn(100);
+                $(this).attr('src', dataArray[i]).fadeIn(300);
                 console.log(i)
                 i++;
             })

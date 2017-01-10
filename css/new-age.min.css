@@ -19,7 +19,7 @@ header .logo  {
  }
  header .header-content .header-content-inner{
 
-   top: 40%;
+   top: 0%;
  }
 
  @media (min-width: 768px){
