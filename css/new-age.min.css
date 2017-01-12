@@ -13,6 +13,11 @@ header .logo img {
    height: 80px;
  }
 
+ header .device-container {
+   max-width: 300px;
+   margin: 0 auto 30px;
+ }
+
 
 header .logo  {
     padding :50px;
